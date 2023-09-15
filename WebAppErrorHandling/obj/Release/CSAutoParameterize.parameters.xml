@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Ass_8ConnectionString-Web.config Connection String" description="Ass_8ConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-C057B7R;Initial Catalog=Ass_8;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Dotnet\\Phase2\\Day15\\WebAppErrorHandling\\WebAppErrorHandling\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Ass_8ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

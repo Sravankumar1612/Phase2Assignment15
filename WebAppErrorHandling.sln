@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppErrorHandling", "WebAppErrorHandling\WebAppErrorHandling.csproj", "{248097A2-2BC6-4053-9BB2-F137EB187586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{248097A2-2BC6-4053-9BB2-F137EB187586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{248097A2-2BC6-4053-9BB2-F137EB187586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{248097A2-2BC6-4053-9BB2-F137EB187586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{248097A2-2BC6-4053-9BB2-F137EB187586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7F6542-0592-454B-B2BA-16A3FD2B7AC0}
+	EndGlobalSection
+EndGlobal
